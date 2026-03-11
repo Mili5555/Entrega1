@@ -18,3 +18,5 @@
 |Lucia  |Dominguez|luciacostanza95@gmail.com|2616685068| <https://github.com/luciadominguez1/_-modulo_1>|
 |Julieta|Valle|julietavalle04@gmail.com|2617773931| <https://github.com/JuliValle1/_-modulo_1>|
 |Milagros|Farina|milifarina05@gmail.com|2634521997|<https://github.com/Mili5555/_-modulo_1>|
+
+Icono: https://chatgpt.com/s/m_69b1eb0daaf48191b96e2984a0b1d18a
