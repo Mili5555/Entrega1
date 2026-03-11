@@ -18,3 +18,7 @@ Tecnica y Herramientas
 |Lucia  |Dominguez|luciacostanza95@gmail.com|2616685068|
 |Julieta|Valle|julietavalle04@gmail.com|2617773931|
 |Milagros|Farina|milifarina05@gmail.com|2634521997|
+
+#Maquina
+##Maquinas
+####Maquinass
