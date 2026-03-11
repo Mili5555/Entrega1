@@ -9,3 +9,9 @@ Tecnica y Herramientas
 - Lucia Dominguez <https://github.com/luciadominguez1/_-modulo_1>
 - Julieta Valle <https://github.com/JuliValle1/_-modulo_1>
 - Ricardo Palma <https://github.com/rpalma>
+
+*Ejercicio 11 de marzo*
+
+| Nombre | Apellido | Correo | Whatsapp |
+|:----------|:----------|:----------|:----------|
+| María | Romero | majoromeroatencio@gmail.com | 2614666253 |
