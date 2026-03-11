@@ -17,3 +17,4 @@ Tecnica y Herramientas
 | María | Romero | majoromeroatencio@gmail.com | 2614666253 |
 |Lucia  |Dominguez|luciacostanza95@gmail.com|2616685068|
 |Julieta|Valle|julietavalle04@gmail.com|2617773931|
+|Milagros|Farina|milifarina05@gmail.com|2634521997|
