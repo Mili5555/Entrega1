@@ -15,3 +15,5 @@ Tecnica y Herramientas
 | Nombre | Apellido | Correo | Whatsapp |
 |:----------|:----------|:----------|:----------|
 | María | Romero | majoromeroatencio@gmail.com | 2614666253 |
+|Lucia  |Dominguez|luciacostanza95@gmail.com|2616685068|
+|Julieta|Valle|julietavalle04@gmail.com|2617773931|
