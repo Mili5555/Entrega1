@@ -20,3 +20,5 @@
 |Milagros|Farina|milifarina05@gmail.com|2634521997|<https://github.com/Mili5555/_-modulo_1>|
 
 Icono: https://chatgpt.com/s/m_69b1eb0daaf48191b96e2984a0b1d18a
+
+$$e^{i\pi} + 1 = 0$$
