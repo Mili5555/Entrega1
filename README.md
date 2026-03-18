@@ -4,6 +4,8 @@
 
 ### **Budin de banana**
 
+<img width="200" height="200" alt="Captura de pantalla 2026-03-18 182408" src="https://github.com/user-attachments/assets/2c122937-ab03-4e16-9933-b3e0b4baa583" />
+
 - Milagros Farina <https://github.com/Mili5555/_-modulo_1>
 - María Romero <https://github.com/majoromero30/Modulo_1_TyHMI>
 - Lucia Dominguez <https://github.com/luciadominguez1/_-modulo_1>
