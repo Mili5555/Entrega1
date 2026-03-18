@@ -1,8 +1,8 @@
-# Entrega Budin de Banana
+# Entrega Budín de Banana
 
 ## Técnicas y Herramientas Modernas I
 
-### **Budin de banana**
+### **Budín de banana**
 
 <img width="200" height="200" alt="Captura de pantalla 2026-03-18 182408" src="https://github.com/user-attachments/assets/2c122937-ab03-4e16-9933-b3e0b4baa583" />
 
