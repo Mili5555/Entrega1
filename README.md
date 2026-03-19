@@ -8,7 +8,7 @@
 
 - Milagros Farina <https://github.com/Mili5555/_-modulo_1>
 - María Romero <https://github.com/majoromero30/Modulo_1_TyHMI>
-- Lucia Dominguez <https://github.com/luciadominguez1/_-modulo_1>
+- Lucía Dominguez <https://github.com/luciadominguez1/_-modulo_1>
 - Julieta Valle <https://github.com/JuliValle1/_-modulo_1>
 - Ricardo Palma <https://github.com/rpalma>
 
