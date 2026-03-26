@@ -43,4 +43,4 @@
 ## Uso de Colaboratory / Markdown en Google Docs
 <https://docs.google.com/document/d/1wMjCjXe-rXdZquZUNcGBUuYlaOReZo4QIJEFHVTD-C4/edit?tab=t.0>
 
-## CV de cada integrante
+
