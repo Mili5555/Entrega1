@@ -23,31 +23,7 @@
 
 ------------------
 
-## Creación de un archivo html en forma manual: página web
 
-```html
-<html>
-  <head>
-   <h1> Mi primera página de web</h1>
-  </head>
-  <body>
-    Esto es el cuerpo del texto.
-    <p> Esto es un párrafo</p>
-
-    <ul>
-
-      <li> Primero</li>
-      <li> Segundo</li>
-      <li>Tercero</li>
-    </ul>
-  </body>
-</html>
-```
-
-------------------
-
-## Uso de Colaboratory / Markdown en Google Docs
-<https://docs.google.com/document/d/1wMjCjXe-rXdZquZUNcGBUuYlaOReZo4QIJEFHVTD-C4/edit?tab=t.0>
 
 ------------------
 
