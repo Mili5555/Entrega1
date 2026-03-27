@@ -8,7 +8,7 @@
 - María Romero <https://github.com/majoromero30/Modulo_1_TyHMI>
 - Lucía Dominguez <https://github.com/luciadominguez1/_-modulo_1>
 - Julieta Valle <https://github.com/JuliValle1/_-modulo_1>
-- Hilario Cavalli <>
+- Hilario Cavalli <https://github.com/hilariocavalli/Modulo-1>
 
 ------------------
 
@@ -20,6 +20,7 @@
 |Lucia|Dominguez|luciacostanza95@gmail.com|2616685068| <https://github.com/luciadominguez1/_-modulo_1>|
 |Julieta|Valle|julietavalle04@gmail.com|2617773931| <https://github.com/JuliValle1/_-modulo_1>|
 |Milagros|Farina|milifarina05@gmail.com|2634521997|<https://github.com/Mili5555/_-modulo_1>|
+| Hilario | Cavalli | hilariomcavallic@gmail.com | 2615939657 | <https://github.com/hilariocavalli/Modulo-1> | 
 
 
 
