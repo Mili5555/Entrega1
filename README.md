@@ -12,7 +12,7 @@
 
 ------------------
 
-*Ejercicio 11 de marzo*
+## Entrega Módulo 1
 
 | Nombre | Apellido | Correo | Whatsapp | Github |
 |:----------|:----------|:----------|:----------|:------------|
@@ -22,7 +22,15 @@
 |Milagros|Farina|milifarina05@gmail.com|2634521997|<https://github.com/Mili5555/_-modulo_1>|
 | Hilario | Cavalli | hilariomcavallic@gmail.com | 2615939657 | <https://github.com/hilariocavalli/Modulo-1> | 
 
+## Entrega Módulo 2
 
+| Nombre | Apellido | Github | 
+|:----------|:----------|:----------|:----------|:------------|
+| María | Romero | <https://github.com/majoromero30/Modulo_2_TyHMI> |
+|Lucia|Dominguez| |
+|Julieta|Valle| |
+|Milagros|Farina| |
+| Hilario | Cavalli | | 
 
 
 
