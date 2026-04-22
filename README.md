@@ -25,7 +25,7 @@
 ## Entrega Módulo 2
 
 | Nombre | Apellido | Github | 
-|:----------|:----------|:----------|:----------|:------------|
+|:----------|:----------|:----------|
 | María | Romero | <https://github.com/majoromero30/Modulo_2_TyHMI> |
 |Lucia|Dominguez| |
 |Julieta|Valle| |
