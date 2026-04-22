@@ -29,7 +29,7 @@
 | María | Romero | <https://github.com/majoromero30/Modulo_2_TyHMI> |
 |Lucia|Dominguez| <https://github.com/luciadominguez1/modulo_2>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo2_> |
-|Milagros|Farina| |
+|Milagros|Farina| https://github.com/Mili5555/Modulo_2_MF/blob/main/README.md |
 | Hilario | Cavalli | | 
 
 
