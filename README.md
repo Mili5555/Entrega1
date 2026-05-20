@@ -30,7 +30,7 @@
 |Lucia|Dominguez| <https://github.com/luciadominguez1/modulo_2>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo2_> |
 |Milagros|Farina| <https://github.com/Mili5555/Modulo_2_MF/blob/main/README.md> |
-| Hilario | Cavalli | | 
+| Hilario | Cavalli | <https://github.com/hilariocavalli/Modulo-2> | 
 
 ## Entrega Módulo 3
 
