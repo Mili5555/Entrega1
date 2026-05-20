@@ -29,9 +29,18 @@
 | María | Romero | <https://github.com/majoromero30/Modulo_2_TyHMI> |
 |Lucia|Dominguez| <https://github.com/luciadominguez1/modulo_2>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo2_> |
-|Milagros|Farina| https://github.com/Mili5555/Modulo_2_MF/blob/main/README.md |
+|Milagros|Farina| <https://github.com/Mili5555/Modulo_2_MF/blob/main/README.md> |
 | Hilario | Cavalli | | 
 
+## Entrega Módulo 3
+
+| Nombre | Apellido | Github | 
+|:----------|:----------|:----------|
+| María | Romero | <> |
+|Lucia|Dominguez| <>|
+|Julieta|Valle| <> |
+|Milagros|Farina| <> |
+| Hilario | Cavalli | <> | 
 
 
 ------------------
