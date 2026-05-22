@@ -36,7 +36,7 @@
 
 | Nombre | Apellido | Github | 
 |:----------|:----------|:----------|
-| María | Romero | <> |
+| María | Romero | <https://github.com/majoromero30/Modulo_3_TyHMI> |
 |Lucia|Dominguez| <>|
 |Julieta|Valle| <> |
 |Milagros|Farina| <> |
