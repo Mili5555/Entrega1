@@ -38,7 +38,7 @@
 |:----------|:----------|:----------|
 | María | Romero | <https://github.com/majoromero30/Modulo_3_TyHMI> |
 |Lucia|Dominguez| <>|
-|Julieta|Valle| <> |
+|Julieta|Valle| <https://github.com/JuliValle1/Modulo3> |
 |Milagros|Farina| <> |
 | Hilario | Cavalli | <> | 
 
