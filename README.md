@@ -40,7 +40,7 @@
 |Lucia|Dominguez| <https://github.com/luciadominguez1/Modulo__3>|
 |Julieta|Valle| <https://github.com/JuliValle1/Modulo3> |
 |Milagros|Farina| <https://github.com/Mili5555/Modulo_3> |
-| Hilario | Cavalli | <> | 
+| Hilario | Cavalli | <https://github.com/hilariocavalli/Modulo-3> | 
 
 
 ------------------
