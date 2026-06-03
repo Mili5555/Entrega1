@@ -49,7 +49,7 @@
 | María | Romero | <https://github.com/majoromero30/Modulo_4_TyHMI> |
 |Lucia|Dominguez| <>|
 |Julieta|Valle| <> |
-|Milagros|Farina| <> |
+|Milagros|Farina| <https://github.com/Mili5555/Modulo_4_Mili_Farina/tree/main> |
 | Hilario | Cavalli | <> | 
 
 
